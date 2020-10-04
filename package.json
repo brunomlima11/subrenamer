@@ -1,0 +1,9 @@
+{
+  "name": "subrenamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "bin": "script.js",
+  "author": "Bruno Menezes",
+  "license": "ISC"
+}
